@@ -1,10 +1,31 @@
-.attribution {
-    font-size: 11px;
+section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.qr {
+    font-family: Arial, Helvetica, sans-serif;
+    background: whitesmoke;
+    border-radius: 20px;
+
+
+}
+
+.qr img {
+    width: 20em;
+    border: 30px solid transparent;
+    border-radius: 4em;
+
+
+}
+
+.qr p {
+
     text-align: center;
 }
 
-.attribution a {
-    color: hsl(228, 45%, 44%);
+.qr h2 {
+    text-align: center;
 }
-
-
